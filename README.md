@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves developing an image captioning model that generates descriptive captions for images using Vietnamese text. This is a EncoderDecoder model utilizes a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks with an attention mechanism. The project is built using PyTorch and leverages pre-trained ResNet-50 for feature extraction.
+This project involves developing an image captioning model that generates descriptive captions for images using Vietnamese text. This is a EncoderDecoder model utilizes a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks with an Bahdanau attention mechanism. The project is built using PyTorch and leverages pre-trained ResNet-50 for feature extraction.
 
 ## Project Components
 
